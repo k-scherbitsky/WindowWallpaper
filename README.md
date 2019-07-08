@@ -23,5 +23,5 @@ const val DESTINATION_FOLDER_WITH_WALLPAPERS = "F:\\Image\\тема\\wallpaper"
 - ??
 - PROFIT
 
-### Congratulate! Wallpapers from lock screen will be coping to your folder when you startup Windows
+### Congratulation! Wallpapers from lock screen will be coping to your folder when you startup Windows
 
