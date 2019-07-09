@@ -14,7 +14,6 @@ const val DESTINATION_FOLDER_WITH_WALLPAPERS = "F:\\Image\\тема\\wallpaper"
 ```
 
 ## How to do
-### 1st way
 - ```mvn clean install```
 - Go to ```WindowsWallpaper/target/```
 
