@@ -17,6 +17,8 @@ const val DESTINATION_FOLDER_WITH_WALLPAPERS = "F:\\Image\\тема\\wallpaper"
 ### 1st way
 - ```mvn clean install```
 - Go to ```WindowsWallpaper/target/```
+
+### 1st way (it doesn't work always in my case)
 - Create shortcut of ```windows-wallpaper-0.0.1-jar-with-dependencies.jar```
 - Press ```Win + R```
 - Enter ```shell:startup```
