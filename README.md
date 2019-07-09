@@ -14,6 +14,7 @@ const val DESTINATION_FOLDER_WITH_WALLPAPERS = "F:\\Image\\тема\\wallpaper"
 ```
 
 ## How to do
+### 1st way
 - ```mvn clean install```
 - Go to ```WindowsWallpaper/target/```
 - Create shortcut of ```windows-wallpaper-0.0.1-jar-with-dependencies.jar```
@@ -22,6 +23,9 @@ const val DESTINATION_FOLDER_WITH_WALLPAPERS = "F:\\Image\\тема\\wallpaper"
 - Copy shortcut to the startup folder
 - ??
 - PROFIT
+
+### 2nd way
+- You can create a task in [Task Scheduler](https://www.thewindowsclub.com/how-to-schedule-batch-file-run-automatically-windows-7)
 
 ### Congratulation! Wallpapers from lock screen will be coping to your folder when you startup Windows
 
